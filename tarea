@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="stylee.css">
+    <title>EL CLIMA EN DIFERENTES CIUDADES</title>
+</head>
+<body>
+    <h1>CLIMA</h1>
+    <p>Este es el clima</p>
+    <iframe src="https://www.meteoblue.com/en/weather/widget/three/ip_romania_675514?geoloc=fixed&nocurrent=0&noforecast=0&days=4&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&layout=image"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 460px; height: 592px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/ip_romania_675514?utm_source=three_widget&utm_medium=linkus&utm_content=three&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+    <h2>Aqui podras ver el clima de diferentes dias de la semana</h2>
+             <ul>
+                   <li>Puedes escribir el nombre de tu ciudad y te saldra el clima</li>
+                   <li>Tambien puedes ver cual es el porcentaje de que pueda sucederu cualquier fenomeno de lluvia</li>
+             </ul>
+     <img src="images/paisaje.jpeg" alt="Image 1">
+</body>
+</html>
